@@ -1,0 +1,10 @@
+//import utils
+@import './utils/mixins';
+@import './utils/resets';
+@import './utils/variables';
+
+//import pages styles 
+@import './pages/pagesStyle.scss';
+
+//import component styles
+@import './components/componentStyle.scss';

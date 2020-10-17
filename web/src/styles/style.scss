@@ -1,0 +1,11 @@
+// Import Bootstrap source files
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+//import core styles
+@import './core/core.scss';
+
+//import custom styles
+@import './core/utils/custom';
+
+//import fonts
+@import './core/utils/fonts';
